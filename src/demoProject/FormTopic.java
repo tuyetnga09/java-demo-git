@@ -285,6 +285,7 @@ public class FormTopic extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(this, "Kiểm tra dữ liệu thành công");
     }//GEN-LAST:event_btnCheckActionPerformed
 
+    //Kiểm tra số nguyên tố ( cái này mình sử dụng thêm)
 //    public static boolean checkRealIntNumber(double n){
 //        if(n <= 1){
 //            return false;
